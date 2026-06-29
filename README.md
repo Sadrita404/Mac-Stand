@@ -1,4 +1,3 @@
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -70,6 +69,13 @@ This is a Vertical Laptop Stand for Macbook and I had made it like an pipe like 
     </tr>
   </table>
 </div>
+
+#### Final Look
+
+<img width="2160" height="3840" alt="IMG-20260624-WA0007" src="https://github.com/user-attachments/assets/59db8810-d409-4f9e-8d14-878b55adf38e" />
+
+<img width="2160" height="3840" alt="IMG-20260625-WA0008" src="https://github.com/user-attachments/assets/d7f1cf25-a387-4140-b436-edb72a229483" />
+
 
 <div align="center">
   <h2> Bill of Materials</h2>
